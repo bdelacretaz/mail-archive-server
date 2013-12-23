@@ -33,8 +33,8 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>org.apache.sling.mailarchiveserver</groupId>
-			<artifactId>server</artifactId>
+			<groupId>org.apache.sling</groupId>
+			<artifactId>org.apache.sling.mailarchive.server</artifactId>
 			<version>0.1.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
